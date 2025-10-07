@@ -1,3 +1,11 @@
+# 1.0.0 (2025-10-07)
+
+
+### Performance Improvements
+
+* **Init repo:** Init repo ([6b68e64](https://github.com/leocodeio/buyNsell/commit/6b68e64e924c885ce28fcd20e492f85dcde04a65))
+* **Init:** Init ([41626bb](https://github.com/leocodeio/buyNsell/commit/41626bbe2df15348319dc49f79d1df412fcc59c3))
+
 # [1.1.0](https://github.com/leocodeio/buyNsell/compare/v1.0.15...v1.1.0) (2025-10-05)
 
 ### Features
