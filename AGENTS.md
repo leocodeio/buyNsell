@@ -6,8 +6,8 @@
 [x] Implement email/password authentication
 [x] Implement session management
 
-[ ] Implement i18n
+[x] Implement i18n
 [x] Implement shadcn ui
-[ ] Implement multi color
+[x] Implement multi color
 [x] Implement dark mode
 [x] Error pages
